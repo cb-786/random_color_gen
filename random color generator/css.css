@@ -1,0 +1,17 @@
+#bod {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+div div {
+       border: 0.25rem solid black;
+       padding: 2rem 6rem 2rem 6rem;
+}
+
+button {
+    padding: 0.5rem;
+    margin-bottom: 1.5rem;
+}
